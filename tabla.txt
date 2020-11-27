@@ -1,0 +1,40 @@
+<center>
+<table border="1" width="80%" height="100%">
+	<tr height="200">
+		<td colspan="2" bgcolor="lightblue">
+			<center>
+			<h1> Torrelavega </h1>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td background="viaverde.jpg" valign="top">
+			<br/><br/>
+			<font color="white">
+			<ul>
+				<li><a href="tabla.html">Inicio</a></li>
+				<li><a href="tabla1.html">Via verde</a></li>
+				<li><a href="tabla2.html">La Lechera</a></li>
+			</ul>
+			</font>
+		</td>
+		<td>
+			<center>
+			Torrelavega es un municipio y  ciudad del norte de España.
+			La ciudad es de carácter industrial y comercial, siendo 
+			el segundo núcleo urbano más relevante de la comunidad autónoma
+			de Cantabria por detrás de la capital autonómica Santander. 
+			Pertenece a la comarca del Besaya y se sitúa en un valle 
+			o vega a unos 8 kilómetros de la costa Cantábrica y 
+			a 24,5 kilómetros de la capital cántabra. En ella 
+			confluyen los ríos Saja y Besaya. La población del término
+			municipal asciende a 51.494 habitantes .
+			Torrelavega es una de las localidades que atraviesa el Camino
+			de Santiago del Norte por la ruta del Besaya. <br/> <br/>
+			<img src="torre.jpg" width="400" />
+			</center>
+		
+		</td>
+	</tr>
+</table>
+</center>
