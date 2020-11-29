@@ -1,0 +1,48 @@
+body{
+	text-align:center;
+}
+#tabla_perros{
+		display:inline-block;
+		width:1200px;
+		height:600px;
+		text-align:left;
+		border;0px
+}
+#tabla_perros_f1{
+		height:200px;
+}
+#tabla_perros_c11{
+		width:421px;
+		background_color:lightblue;
+		text-align:center;
+}
+h1{
+		font-size:3em;
+}
+#tabla_perros_c12{
+		width:40px;
+}
+#tabla_perros_c13{
+		width:40px;background-color:lightyellow;
+}
+#tabla_perros_c14{
+		width:681px;
+		background-color:lightyellow;
+}
+#tabla_perros_c21{
+		background:url("fondo.jpg");
+		vertical-align:top;
+		color:white;
+}
+#El American Staffordshire Terrier o Amstaff {
+		text-decoration:underline;
+}
+#raza canina  {
+		font-weight:bold;
+}
+#originaria de Estados Unidos {
+		font-style:italic;
+}
+.br{
+		height:2.3em;
+}
